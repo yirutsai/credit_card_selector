@@ -1,0 +1,39 @@
+{
+    "product_data":{
+        "uniqlo": [
+            {
+            "name": "國泰Cube卡",
+            "offers": "3%",
+            "desc": "需切方案",
+            "valid_date": "2023/12/31"
+            },
+            {
+            "name": "Credit Card B",
+            "offers": "Travel rewards, Low APR"
+            }
+        ],
+        "momo": [
+            {
+            "name": "Credit Card C",
+            "offers": "Points rewards, Bonus sign-up points"
+            },
+            {
+            "name": "Credit Card D",
+            "offers": "No foreign transaction fees, Travel insurance"
+            }
+        ],
+        "pchome": [
+            {
+            "name": "Credit Card E",
+            "offers": "Dining rewards, Entertainment perks"
+            },
+            {
+            "name": "Credit Card F",
+            "offers": "Flexible redemption options, Premium benefits"
+            }
+        ]
+    },
+    "card_data":{
+        "國泰Cube卡": "2023/12/31"
+    }
+}

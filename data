@@ -1,0 +1,865 @@
+{
+    "product_data": {
+        "uniqlo": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切方案",
+                "valid_date": "2023/12/31"
+            },
+            {
+                "name": "永豐大戶debit卡",
+                "offers": "5%",
+                "desc": "每月上限300元",
+                "valid_date": "2023/12/31"
+            },
+            {
+                "name": "將來將將卡",
+                "offers": "5%",
+                "desc": "每月上限250點",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "momo": [
+            {
+                "name": "Credit Card C",
+                "offers": "Points rewards, Bonus sign-up points"
+            },
+            {
+                "name": "Credit Card D",
+                "offers": "No foreign transaction fees, Travel insurance"
+            },
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(玩數位)",
+                "valid_date": "2023/12/31"
+            },
+            {
+                "name": "台新gogo卡",
+                "offers": "3.8%",
+                "desc": "None",
+                "valid_date": "2024/3/31"
+            },
+            {
+                "name": "將來將將卡",
+                "offers": "5%",
+                "desc": "每月上限250點",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "pchome": [
+            {
+                "name": "Credit Card E",
+                "offers": "Dining rewards, Entertainment perks"
+            },
+            {
+                "name": "Credit Card F",
+                "offers": "Flexible redemption options, Premium benefits"
+            },
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(玩數位)",
+                "valid_date": "2023/12/31"
+            },
+            {
+                "name": "台新gogo卡",
+                "offers": "3.8%",
+                "desc": "None",
+                "valid_date": "2024/3/31"
+            },
+            {
+                "name": "將來將將卡",
+                "offers": "5%",
+                "desc": "每月上限250點",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "spotify": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "kkbox": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "apple服務": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "蝦皮": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(玩數位)",
+                "valid_date": "2023/12/31"
+            },
+            {
+                "name": "台新gogo卡",
+                "offers": "3.8%",
+                "desc": "None",
+                "valid_date": "2024/3/31"
+            },
+            {
+                "name": "將來將將卡",
+                "offers": "5%",
+                "desc": "每月上限250點",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "yahoo購物": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(玩數位)",
+                "valid_date": "2023/12/31"
+            },
+            {
+                "name": "台新gogo卡",
+                "offers": "3.8%",
+                "desc": "None",
+                "valid_date": "2024/3/31"
+            }
+        ],
+        "小樹購": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(玩數位)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "amazon": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(玩數位)",
+                "valid_date": "2023/12/31"
+            },
+            {
+                "name": "台新gogo卡",
+                "offers": "3.8%",
+                "desc": "None",
+                "valid_date": "2024/3/31"
+            }
+        ],
+        "淘寶/天貓": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(玩數位)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "新光三越": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "skm park": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "遠東百貨": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "big city遠東巨城購物中心": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "微風廣場": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "誠品生活": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "環球購物中心": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "citylink": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "bellavita": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "台北101": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "att 4 fun": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "明曜百貨": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "京站": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "美麗華": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "大江國際購物中心": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "mitsui outlet park(林口、台中港、台南)": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "mitsui shopping park lalaport(台中)": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "義大世界購物廣場": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "華泰名品城": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "台茂購物中心": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "桃園統領百貨": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "uber eats": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "foodpanda": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            },
+            {
+                "name": "將來將將卡",
+                "offers": "5%",
+                "desc": "每月上限250點",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "foodomo": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            },
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(集精選)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "inline": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "eztable": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "國內餐飲": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "康是美": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "寶雅": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "屈臣氏": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "日藥本舖": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "tomod's": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "松本清": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(樂饗購)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "指定國家海外消費(日本、韓國、泰國、新加坡)": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "uber": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "line taxi": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "yoxi": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "台灣大車隊": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            },
+            {
+                "name": "將來將將卡",
+                "offers": "5%",
+                "desc": "每月上限250點",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "大都會計程車": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "和運租車": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "irent": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            },
+            {
+                "name": "永豐大戶debit卡",
+                "offers": "5%",
+                "desc": "每月上限300元",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "格上租車": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "中租租車": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "avis租車": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "kkday": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "agoda": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "klook": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "airbnb": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "booking.com": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "國內旅行社": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(趣旅行)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "家樂福": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(集精選)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "台灣高鐵": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(集精選)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "台灣中油直營店": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(集精選)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "7-eleven": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(集精選)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "全家便利商": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(集精選)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "全聯福利中心": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(集精選)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "麥當勞": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(集精選)",
+                "valid_date": "2023/12/31"
+            },
+            {
+                "name": "將來將將卡",
+                "offers": "5%",
+                "desc": "每月上限250點",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "星巴克": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(集精選)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "遠東sogo百貨": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(集精選)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "博客來": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(集精選)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "城市車旅": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(集精選)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "嘟嘟房": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(集精選)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "open錢包": [
+            {
+                "name": "國泰Cube卡",
+                "offers": "3%",
+                "desc": "需切換(集精選)",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "里仁": [
+            {
+                "name": "永豐大戶debit卡",
+                "offers": "5%",
+                "desc": "每月上限300元",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "棉花田": [
+            {
+                "name": "永豐大戶debit卡",
+                "offers": "5%",
+                "desc": "每月上限300元",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "聖德科斯": [
+            {
+                "name": "永豐大戶debit卡",
+                "offers": "5%",
+                "desc": "每月上限300元",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "無印良品": [
+            {
+                "name": "永豐大戶debit卡",
+                "offers": "5%",
+                "desc": "每月上限300元",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "zara": [
+            {
+                "name": "永豐大戶debit卡",
+                "offers": "5%",
+                "desc": "每月上限300元",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "h&m": [
+            {
+                "name": "永豐大戶debit卡",
+                "offers": "5%",
+                "desc": "每月上限300元",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "goshare": [
+            {
+                "name": "永豐大戶debit卡",
+                "offers": "5%",
+                "desc": "每月上限300元",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "wemo": [
+            {
+                "name": "永豐大戶debit卡",
+                "offers": "5%",
+                "desc": "每月上限300元",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "smart2go": [
+            {
+                "name": "永豐大戶debit卡",
+                "offers": "5%",
+                "desc": "每月上限300元",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "linepay": [
+            {
+                "name": "台新gogo卡",
+                "offers": "3.8%",
+                "desc": "None",
+                "valid_date": "2024/3/31"
+            }
+        ],
+        "全支付": [
+            {
+                "name": "台新gogo卡",
+                "offers": "3.8%",
+                "desc": "None",
+                "valid_date": "2024/3/31"
+            }
+        ],
+        "全盈+pay": [
+            {
+                "name": "台新gogo卡",
+                "offers": "3.8%",
+                "desc": "None",
+                "valid_date": "2024/3/31"
+            }
+        ],
+        "台新pay": [
+            {
+                "name": "台新gogo卡",
+                "offers": "3.8%",
+                "desc": "None",
+                "valid_date": "2024/3/31"
+            }
+        ],
+        "肯德基": [
+            {
+                "name": "將來將將卡",
+                "offers": "5%",
+                "desc": "每月上限250點",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "漢堡王": [
+            {
+                "name": "將來將將卡",
+                "offers": "5%",
+                "desc": "每月上限250點",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "q burger": [
+            {
+                "name": "將來將將卡",
+                "offers": "5%",
+                "desc": "每月上限250點",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "50嵐": [
+            {
+                "name": "將來將將卡",
+                "offers": "5%",
+                "desc": "每月上限250點",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "清心福全": [
+            {
+                "name": "將來將將卡",
+                "offers": "5%",
+                "desc": "每月上限250點",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "萬波": [
+            {
+                "name": "將來將將卡",
+                "offers": "5%",
+                "desc": "每月上限250點",
+                "valid_date": "2023/12/31"
+            }
+        ],
+        "comebuy": [
+            {
+                "name": "將來將將卡",
+                "offers": "5%",
+                "desc": "每月上限250點",
+                "valid_date": "2023/12/31"
+            }
+        ]
+    },
+    "card_data": {
+        "國泰Cube卡": "2023/12/31"
+    }
+}
