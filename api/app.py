@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, redirect, url_for
 import json
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder = "../templates")
 
 with open('static/data', 'r', encoding="UTF-8") as json_file:
     data = json.load(json_file)
@@ -29,7 +29,7 @@ def update():
         data["product_data"][request.form['productName'].lower()] = target_data
         # print(data)
         # Write updated data to data.json
-        with open('data', 'w', encoding="UTF-8") as json_file:
+        with open('./static/data', 'w', encoding="UTF-8") as json_file:
             json.dump(data, json_file, indent=4, ensure_ascii=False)
 
         return redirect(url_for('update'))
