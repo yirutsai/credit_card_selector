@@ -44,5 +44,5 @@ def delete():
         pass
     else:
         return render_template("delete.html", product_cards = product_cards)
-# if __name__ == '__main__':
-#     app.run(debug=True,host="0.0.0.0",port=3030)
+if __name__ == '__main__':
+    app.run(debug=True,host="0.0.0.0",port=3030)

@@ -68,7 +68,7 @@
     </div>    
     <div class="container">
         <h1>Best Credit Card Selector</h1>
-        <form id="productForm" method="POST">
+        <!-- <form id="productForm" method="POST">
             <label for="productDropdown">Select a Product:</label>
             <select id="productDropdown" name="product">
                 {% for product in products %}
@@ -76,10 +76,10 @@
                 {% endfor %}
             </select>
             <button type="submit">Find Best Credit Card</button>
-        </form>
+        </form> -->
         <div id="result">
             {% if byproducts %}
-                <h2>{{Sort by products}}:</h2>
+                <h2>Sort by products:</h2>
                 <ul>
                     {% for product in product_cards %}
                         {% for card in product %}
