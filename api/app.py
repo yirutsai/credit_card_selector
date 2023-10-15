@@ -37,5 +37,12 @@ def update():
 
     return render_template('update.html')
 
+@app.route("/delete", methods=['GET', 'POST'] )
+def delete():
+    product_cards = data["product_data"].items()
+    if(request.method == "POST"):
+        pass
+    else:
+        return render_template("delete.html", product_cards = product_cards)
 # if __name__ == '__main__':
 #     app.run(debug=True,host="0.0.0.0",port=3030)
