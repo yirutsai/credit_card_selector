@@ -8,6 +8,7 @@ with open('static/data', 'r', encoding="UTF-8") as json_file:
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
+    return "test_hello_index"
     if request.method == 'POST':
         selected_product = request.form['product']
         recommendations = data["product_data"].get(selected_product, [])
